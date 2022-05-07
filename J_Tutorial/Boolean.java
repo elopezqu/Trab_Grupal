@@ -1,3 +1,4 @@
+import java.util.*;
 public class Boolean{
 	public static void main(String[] args){
 		//Una aplicación que imprime si un numero es par o impar
@@ -14,6 +15,6 @@ public class Boolean{
 		if(par)
 			System.out.println("par"); //Si par es TRUE imprime par
 		else
-			System.out.printn("impar"); //Si es FALSE imprime impar
+			System.out.println("impar"); //Si es FALSE imprime impar
 	}
 }
