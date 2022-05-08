@@ -43,3 +43,21 @@
   <tr><td>III. CONCLUSIONES:<br>...</td></tr>
  </tbody>
 </table>
+
+<table>
+ <theader>
+  <tr><td>RETROALIMENTACIÓN GENERAL</td><tr>
+ </theader>
+ <tbody>
+  <tr><td>...</td></tr>
+ </tbody>
+</table>
+
+<table>
+ <theader>
+  <tr><td>RREFERENCIAS Y BIBLIOGRAFÍA</td><tr>
+ </theader>
+ <tbody>
+  <tr><td>...</td></tr>
+ </tbody>
+</table>
