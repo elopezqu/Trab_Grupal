@@ -40,6 +40,6 @@
  <tbody>
   <tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:<br>...</td></tr>
   <tr><td>II. SOLUCIÓN DEL CUESTIONARIO:<br>...</td></tr>
-  <tr><td>III. CONCLUSIONES:<br>- La sobrecarga de metodos nos ayudan para preservar la compatibilidad con versiones anteriores</td></tr>
+  <tr><td>III. CONCLUSIONES:<br>- La sobrecarga de metodos nos ayudan para preservar la compatibilidad con versiones anteriores <br>- Java es un lenguaje muy facil de aprender y te da la facilidad de aprender otros lenguajes muy rapido</td></tr>
  </tbody>
 </table>
