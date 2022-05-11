@@ -49,7 +49,7 @@
   <tr><td>RETROALIMENTACIÓN GENERAL</td><tr>
  </theader>
  <tbody>
-  <tr><td>...</td></tr>
+  <tr><td>Al inicio del laboratorio vimos comandos básicos de Git mismos que el profesor uso para subir sus archivos del repositorio local a la nube (GitHub), todo esto sirvio más que nada para recordar saberes previos. Posteriormente se nos encargaron los Ejercicios Propuestos, donde nos pedian replicar los ejercicios del inicio y en equipos crear archivos .java del tutorial de w3schools, para esto nos repartirmos los ejercicios y los trabajamos por separdo cada uno en su rama, y luego juntarlas en el main</td></tr>
  </tbody>
 </table>
 
