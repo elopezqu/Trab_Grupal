@@ -39,7 +39,7 @@
  </theader>
  <tbody>
   <tr><td><strong>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</strong><br>Para los ejercicios en grupo se dividio aleatoriamente y cado uno trabajo en su rama los archivos respectivos, al final se unio todas las ramas.<br>Link Repositorios Individuales:<br>-https://github.com/elopezqu/Prueba <br>-https://github.com/oliver092377/EDALab1</td></tr>
-  <tr><td>II. SOLUCIÓN DEL CUESTIONARIO:<br>...</td></tr>
+  <tr><td>II. SOLUCIÓN DEL CUESTIONARIO:<br>¿Por qué Git y Github son herramientas importantes para el curso?<br>El Git y el GitHub son herramientas de vital importancia no solo para el curso, sino para toda nuestra vida como programadores, esto debido a que nos permite trabajar en grupo, de manera simultanea, ordenada y sobre todo eficiente. Por otro lado tambien cuenta con un gran sistema de control de versiones lo que hace que sea la herramienta ideal para curso y nuestros futuros proyectos(que obviamente serán con algún grupo de trabajo).</td></tr>
   <tr><td>III. CONCLUSIONES:<br>- La sobrecarga de metodos nos ayudan para preservar la compatibilidad con versiones anteriores <br>- Java es un lenguaje muy facil de aprender y te da la facilidad de aprender otros lenguajes muy rapido</td></tr>
  </tbody>
 </table>
