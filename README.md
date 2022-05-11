@@ -29,7 +29,10 @@
   <tr><td>TÍTULO DE LA PRACTICA:</td><td colspan="5">Revisión de elementos de programación(Parte I)</td></tr>
   <tr><td>NÚMERO DE PRÁCTICA:</td><td>Practica de Laboratorio 01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td></tr>
   <tr><td>FECHA DE PRESENTACIÓN:</td><td>...</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">...</td></tr>
+<<<<<<< HEAD
   <tr><td>INTEGRANTES:</td><td colspan="3">Diego Ivan Pacori Anccasi</td><td>NOTA:</td><td>...</td></tr>
+=======
+>>>>>>> elopezqu
   <tr><td>DOCENTE:</td><td colspan="5">Richart Smith Escobedo Quispe - rescobedoq@unsa.edu.pe</td></tr>
  </tbody>
 </table>
@@ -41,5 +44,24 @@
   <tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:<br>...</td></tr>
   <tr><td>II. SOLUCIÓN DEL CUESTIONARIO:<br>...</td></tr>
   <tr><td>III. CONCLUSIONES:<br>- La sobrecarga de metodos nos ayudan para preservar la compatibilidad con versiones anteriores <br>- Java es un lenguaje muy facil de aprender y te da la facilidad de aprender otros lenguajes muy rapido</td></tr>
+ </tbody>
+</table>
+
+<table>
+ <theader>
+  <tr><td>RETROALIMENTACIÓN GENERAL</td><tr>
+ </theader>
+ <tbody>
+  <tr><td>Al inicio del laboratorio vimos comandos básicos de Git mismos que el profesor uso para subir sus archivos del repositorio local a la nube (GitHub), todo esto sirvio más que nada para recordar saberes previos. Posteriormente se nos encargaron los Ejercicios Propuestos, donde nos pedian replicar los ejercicios del inicio y en equipos crear archivos .java del tutorial de w3schools, para esto nos repartirmos los ejercicios y los trabajamos por separdo cada uno en su rama, y luego juntarlas en el main</td></tr>
+ </tbody>
+</table>
+
+<table>
+ <theader>
+  <tr><td>RREFERENCIAS Y BIBLIOGRAFÍA</td><tr>
+ </theader>
+ <tbody>
+  <tr><td>https://javadesdecero.es/poo/sobrecarga-de-metodos/ </td></tr>
+  <tr><td>https://www.w3schools.com/html/default.asp </td></tr>
  </tbody>
 </table>
