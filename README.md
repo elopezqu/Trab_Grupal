@@ -28,8 +28,8 @@
   <tr><td>ASIGNATUA:</td><td colspan="5">Estructura de Datos y Algoritmos</td></tr>
   <tr><td>TÍTULO DE LA PRACTICA:</td><td colspan="5">Revisión de elementos de programación(Parte I)</td></tr>
   <tr><td>NÚMERO DE PRÁCTICA:</td><td>Practica de Laboratorio 01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td></tr>
-  <tr><td>FECHA DE PRESENTACIÓN:</td><td>...</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">...</td></tr>
-  <tr><td>INTEGRANTES:</td><td colspan="3">-Diego Ivan Pacori Anccasi<br>-Edson Joel López Quispe<br>-Oliver Alessandro Mayta Nolasco<br>-Edwin Francisco Aguilar Tancayo</td><td>NOTA:</td><td>...</td></tr>
+  <tr><td>FECHA DE PRESENTACIÓN:</td><td>10/05/22</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">11:30 p.m.</td></tr>
+  <tr><td>INTEGRANTES:</td><td colspan="3">-Diego Ivan Pacori Anccasi<br>-Edson Joel López Quispe<br>-Oliver Alessandro Mayta Nolasco<br>-Edwin Francisco Aguilar Tancayo<br>-Jordy Emanuel Ayma Cutipa</td><td>NOTA:</td><td>...</td></tr>
   <tr><td>DOCENTE:</td><td colspan="5">Richart Smith Escobedo Quispe - rescobedoq@unsa.edu.pe</td></tr>
  </tbody>
 </table>
@@ -38,7 +38,7 @@
   <tr><th>SOLUCIÓN Y RESULTADOS</th></tr>
  </theader>
  <tbody>
-  <tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:<br>Para los ejercicios en grupo se dividio aleatoriamente y cado uno trabajo en su rama los archivos respectivos, al finanl se unio todas las ramas.<br>Link Repositorios Individuales:<br>-https://github.com/elopezqu/Prueba </td></tr>
+  <tr><td><strong>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</strong><br>Para los ejercicios en grupo se dividio aleatoriamente y cado uno trabajo en su rama los archivos respectivos, al final se unio todas las ramas.<br>Link Repositorios Individuales:<br>-https://github.com/elopezqu/Prueba </td></tr>
   <tr><td>II. SOLUCIÓN DEL CUESTIONARIO:<br>...</td></tr>
   <tr><td>III. CONCLUSIONES:<br>- La sobrecarga de metodos nos ayudan para preservar la compatibilidad con versiones anteriores <br>- Java es un lenguaje muy facil de aprender y te da la facilidad de aprender otros lenguajes muy rapido</td></tr>
  </tbody>
