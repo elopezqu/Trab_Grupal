@@ -38,7 +38,7 @@
   <tr><th>SOLUCIÓN Y RESULTADOS</th></tr>
  </theader>
  <tbody>
-  <tr><td><strong>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</strong><br>Para los ejercicios en grupo se dividio aleatoriamente y cado uno trabajo en su rama los archivos respectivos, al final se unio todas las ramas.<br>Link Repositorios Individuales:<br>-https://github.com/elopezqu/Prueba </td></tr>
+  <tr><td><strong>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</strong><br>Para los ejercicios en grupo se dividio aleatoriamente y cado uno trabajo en su rama los archivos respectivos, al final se unio todas las ramas.<br>Link Repositorios Individuales:<br>-https://github.com/elopezqu/Prueba <br>-https://github.com/oliver092377/EDALab1</td></tr>
   <tr><td>II. SOLUCIÓN DEL CUESTIONARIO:<br>...</td></tr>
   <tr><td>III. CONCLUSIONES:<br>- La sobrecarga de metodos nos ayudan para preservar la compatibilidad con versiones anteriores <br>- Java es un lenguaje muy facil de aprender y te da la facilidad de aprender otros lenguajes muy rapido</td></tr>
  </tbody>
